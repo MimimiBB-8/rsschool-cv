@@ -5,6 +5,7 @@ Phone	+375447595384
 Email	yuliya.pashkouskaya@gmail.com  
 Linkedin  https://www.linkedin.com/in/yuliya-pashkouskaya-b46ab91b0/  
 Skype  yuliya.pashkouskaya@gmail.com  
+GitHub https://github.com/MimimiBB-8
 
 ## SUMMARY ##
 I’m a systems programmer engineer. I have experience in coordinating a group of people and educational process, software product development in various programming languages within the educational process.  I want to study many aspects in the direction of IT- technology, marketing and design.
