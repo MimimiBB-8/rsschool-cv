@@ -13,6 +13,7 @@ I’m a systems programmer engineer. I have experience in coordinating a group o
 * JS
 * HTML5, CSS3;
 * MySQL;
+* Git
 * Adobe Photoshop / CorelDRAW / Figma
 * Microsoft Office 
 
